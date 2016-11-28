@@ -24,8 +24,8 @@
 
 		<property name="hbm2ddl.auto">create</property>
 
-		<mapping class="org.sistema.hibernate.oneToManyAnnotations.models.Book" />
-		<mapping class="org.sistema.hibernate.oneToManyAnnotations.models.Person" />
+		<mapping class="org.ezquerro.hibernate.exam04.models.Flight" />
+		<mapping class="org.ezquerro.hibernate.exam04.models.Passenger" />
 
 	</session-factory>
 
